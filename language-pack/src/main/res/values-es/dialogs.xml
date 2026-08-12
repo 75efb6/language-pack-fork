@@ -26,8 +26,8 @@
     <string name="config_backup_restore_info_success">Se importó el archivo de configuración</string>
     <string name="config_backup_restore_info_fail">No se pudo importar el archivo de configuración</string>
 
-    <string name="multi_mode_window_alert_title">Multi-window Mode</string>
-    <string name="multi_mode_window_alert_message">osu!droid does not support multi-window mode. Please switch back to single-window mode to continue playing.</string>
+    <string name="multi_mode_window_alert_title">Modo multiventana</string>
+    <string name="multi_mode_window_alert_message">osu!droid no soporta el modo multiventana. Porfavor vuelve a poner el juego en primer plano para jugar.</string>
 
 
 </resources>
