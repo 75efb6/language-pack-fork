@@ -57,9 +57,9 @@
     <string name="library_skin_importing">Importing skin...</string>
     <string name="import_failed_open_file">Failed to open file for import.</string>
 
-    <string name="act_import_beatmap">Import beatmap into osu!droid</string>
-    <string name="act_import_file">Import file into osu!droid</string>
-    <string name="act_import_skin">Import skin into osu!droid</string>
+    <string name="act_import_beatmap">Importar mapa a osu!droid</string>
+    <string name="act_import_file">Importar archivo a osu!droid</string>
+    <string name="act_import_skin">Importar skin a osu!droid</string>
 
 
     <!-- Parser -->
